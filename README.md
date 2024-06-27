@@ -183,6 +183,14 @@ class MyHomePage extends StatelessWidget {
 }
 ```
 
+## Examples
+
+For more advanced usage and examples, check out the [example](example) folder in the package repository.
+
+## Additional Information
+
+For more information on using this package, please refer to the [API documentation](https://pub.dev/documentation/watchable/latest/).
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.

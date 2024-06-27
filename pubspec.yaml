@@ -1,6 +1,6 @@
 name: design_sync
-description: "A Flutter utility for creating pixel-perfect, responsive layouts by adapting dimensions from Figma designs to various device screen sizes. Easily scale widths, heights, font sizes, and radii to maintain design fidelity across devices."
-version: 1.0.0
+description: "Figma to Flutter responsive layouts. Automatically adapt widths, heights, fonts, and radii for pixel-perfect designs across all devices."
+version: 1.0.1
 homepage: "https://github.com/dipendra-sharma/design_sync"
 
 environment:
